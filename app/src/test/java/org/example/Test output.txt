@@ -1,0 +1,23 @@
+> Task :app:AppTest.main()
+Test 1: enter 0 to 100 
+Enter score: 150
+Error: Must be 0-100
+Enter score: 50
+Test 1 Result: 50
+
+Test 2: enter -10 to -1 
+Enter negative: 10
+Error: Must be between -10 and -1
+Enter negative: -5
+Test 2 Result: -5
+
+Test 3: enter 5
+Enter 5: 6
+Error: You must enter 5
+Enter 5: 5
+Test 3 Result: 5
+
+BUILD SUCCESSFUL in 20s
+3 actionable tasks: 2 executed, 1 up-to-date
+3:45:57 PM: Execution finished ':app:AppTest.main()'.
+n()'.
